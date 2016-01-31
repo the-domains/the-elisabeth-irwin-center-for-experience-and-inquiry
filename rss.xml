@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Elisabeth Irwin Center for Experience & Inquiry]]></title>
+        <description><![CDATA[The Elisabeth Irwin Center for Experience & Inquiry]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 31 Jan 2016 22:46:33 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/955ae451-54ed-4c2e-95bd-ee516d75d4a1.jpg" alt="" title="">]]></description>
+            <link>undefined366b8065-79d7-4959-b6c5-5640b1cef324/index.html</link>
+            <guid isPermaLink="false">366b8065-79d7-4959-b6c5-5640b1cef324</guid>
+            <pubDate>Sun, 31 Jan 2016 22:46:24 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
