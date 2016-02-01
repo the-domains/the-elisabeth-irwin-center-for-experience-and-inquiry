@@ -1,6 +1,6 @@
 name: 'The Elisabeth Irwin Center for Experience & Inquiry'
 favicon: null
-layout_spectrum: 0.84484
+layout_spectrum: 1
 typography_spectrum: 0.86957
 title: 'A Community of Creativity, Collaboration & Consequence'
 cta:
@@ -23,7 +23,7 @@ color:
     - '#f68c90'
     - '#fac6c8'
   brandStrength: 0.75
-  lightness: 0.7000340449158102
-  saturation: 0.375
-  rhythmicContrast: 0.3930034770164639
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 1
 purpose: []
